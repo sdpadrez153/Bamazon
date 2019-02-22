@@ -15,3 +15,4 @@ Start Manager Program:
 Open Terminal
 node bamazonManager.js
 
+https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerPurchase.png
