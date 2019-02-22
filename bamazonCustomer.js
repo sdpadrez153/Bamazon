@@ -21,11 +21,10 @@ function displayTable() {
     connection.query("SELECT * FROM products", function (err, res) {
         if (err) throw err;
         console.table(res);
-        
-        
+
         start();
     });
-    
+
 }
 
 function start() {
@@ -62,7 +61,7 @@ function purchase(id, amount) {
             connection.query(updateQuery,
                 [
                     {
-                        stock_quantity: res[0].stock_quantity - amount
+                        stock_quantity: res[0].stock_quantity-amount
                     },
                     {
                         item_id: id

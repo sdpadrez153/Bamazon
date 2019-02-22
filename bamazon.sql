@@ -20,7 +20,7 @@ VALUES
   ("Red Bull", "Food and Drink", 47.99, 200),
   ("Destiny 2", "Video Games", 49.99, 20),
   ("Call of Duty", "Video Games", 39.99, 5),
-  ("Cup of Noodels", "Food and Drink", 10.99, 200),
+  ("Cup of Noodles", "Food and Drink", 10.99, 200),
   ("Under Armour Shirt", "Clothing", 19.99, 25),
   ("RVCA Hat", "Clothing", 25.99, 100),
   ("Gladiator", "Movies", 19.99, 100),
