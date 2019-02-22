@@ -16,3 +16,5 @@ Open Terminal
 node bamazonManager.js
 
 https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerPurchase.png
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
