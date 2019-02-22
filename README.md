@@ -16,6 +16,10 @@ Open Terminal
 node bamazonManager.js
 
 
+
+
+
+
 Customer Program Being Executed:
 
 ![Image of Customer Purchase](https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerStart.png)
